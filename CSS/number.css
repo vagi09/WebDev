@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 250px;
+  }
+  
+  label,
+  input[type="text"],
+  button[type="button"] {
+    /* border: 3px solid #97daab; */
+    margin-bottom: 10px;
+    font-size: 18px;
+    padding: 10px;
+    
+  }
+  
+  input[type="text"] {
+    margin-right: 10px; /* Add a right margin to create a gap */
+    border: 3px solid #8811f7
+  }
+  
+  
